@@ -1,8 +1,5 @@
 # set working directory
-setwd("C:/Rdata/Test")
-#setwd("C:/Users/RenkeLuehken/Google Drive/R/Restingsites_Linda/Logger Zwischenauslegungen")
-getwd()
-dir()
+setwd("G:/NeuAll/002-research-projects/002-research-projects-008-resting-sites-microclimate/data/raw-data/felix")
 
 # functions
 fahr_to_kelvin <- function(temp) {
